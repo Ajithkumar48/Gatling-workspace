@@ -3,7 +3,7 @@ package test.scala.requests
 import io.gatling.core.Predef._
 import io.gatling.http.Predef._
 import io.gatling.http.request.builder.HttpRequestBuilder
-import test.scala.Config.Configuration.baseUrl
+import test.scala.config.Configuration.baseUrl
 
 object getPostcodesRequest {
 

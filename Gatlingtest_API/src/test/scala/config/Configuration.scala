@@ -1,4 +1,4 @@
-package test.scala.Config
+package test.scala.config
 
 import com.typesafe.config._
 
