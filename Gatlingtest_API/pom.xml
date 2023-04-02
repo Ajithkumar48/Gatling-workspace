@@ -48,6 +48,8 @@
           <jvmArgs>
             <jvmArg>-Dusers=${users}</jvmArg>
             <jvmArg>-Drampup=${rampup}</jvmArg>
+            <jvmArg>-Dduration=${duration}</jvmArg>
+            <jvmArg>-Dthroughput=${throughput}</jvmArg>
           </jvmArgs>
         </configuration>
       </plugin>

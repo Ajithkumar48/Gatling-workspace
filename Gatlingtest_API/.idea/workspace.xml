@@ -5,57 +5,57 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c13c920-62bb-4062-9e58-7364c325031c" name="Changes" comment="first run &gt;&gt; target">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/requestBody/GetGeocoding.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/scala/requests/getGeocodingRequest.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/scala/config/configuration.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/scala/config/configuration.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/scala/scenarios/GetPostcodesScenario.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/scala/scenarios/testScenario.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/scala/simulation/getPostcodesSimulation.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/scala/simulation/getPostcodesSimulation.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gatling/getpostcodessimulation-20230402081939668/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gatling/getpostcodessimulation-20230402081939668/js/all_sessions.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gatling/getpostcodessimulation-20230402081939668/js/assertions.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gatling/getpostcodessimulation-20230402081939668/js/assertions.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gatling/getpostcodessimulation-20230402081939668/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gatling/getpostcodessimulation-20230402081939668/js/gatling.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gatling/getpostcodessimulation-20230402081939668/js/global_stats.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gatling/getpostcodessimulation-20230402081939668/js/highcharts-more.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gatling/getpostcodessimulation-20230402081939668/js/highstock.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gatling/getpostcodessimulation-20230402081939668/js/jquery-3.5.1.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gatling/getpostcodessimulation-20230402081939668/js/menu.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gatling/getpostcodessimulation-20230402081939668/js/moment-2.24.0.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gatling/getpostcodessimulation-20230402081939668/js/stats.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gatling/getpostcodessimulation-20230402081939668/js/stats.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gatling/getpostcodessimulation-20230402081939668/js/theme.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gatling/getpostcodessimulation-20230402081939668/js/unpack.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gatling/getpostcodessimulation-20230402081939668/req_get-postcode-484f2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gatling/getpostcodessimulation-20230402081939668/simulation.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gatling/getpostcodessimulation-20230402081939668/style/arrow_down.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gatling/getpostcodessimulation-20230402081939668/style/arrow_down_black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gatling/getpostcodessimulation-20230402081939668/style/arrow_right.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gatling/getpostcodessimulation-20230402081939668/style/arrow_right_black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gatling/getpostcodessimulation-20230402081939668/style/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gatling/getpostcodessimulation-20230402081939668/style/cible.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gatling/getpostcodessimulation-20230402081939668/style/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gatling/getpostcodessimulation-20230402081939668/style/little_arrow_right.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gatling/getpostcodessimulation-20230402081939668/style/logo-gatling.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gatling/getpostcodessimulation-20230402081939668/style/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gatling/getpostcodessimulation-20230402081939668/style/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gatling/getpostcodessimulation-20230402081939668/style/sortable.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gatling/getpostcodessimulation-20230402081939668/style/sorted-down.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gatling/getpostcodessimulation-20230402081939668/style/sorted-up.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gatling/getpostcodessimulation-20230402081939668/style/stat-fleche-bas.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gatling/getpostcodessimulation-20230402081939668/style/stat-fond.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gatling/getpostcodessimulation-20230402081939668/style/stat-l-roue.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gatling/getpostcodessimulation-20230402081939668/style/stat-l-temps.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gatling/getpostcodessimulation-20230402081939668/style/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/getpostcodessimulation-20230402092704258/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/getpostcodessimulation-20230402092704258/js/all_sessions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/getpostcodessimulation-20230402092704258/js/assertions.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/getpostcodessimulation-20230402092704258/js/assertions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/getpostcodessimulation-20230402092704258/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/getpostcodessimulation-20230402092704258/js/gatling.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/getpostcodessimulation-20230402092704258/js/global_stats.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/getpostcodessimulation-20230402092704258/js/highcharts-more.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/getpostcodessimulation-20230402092704258/js/highstock.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/getpostcodessimulation-20230402092704258/js/jquery-3.5.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/getpostcodessimulation-20230402092704258/js/menu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/getpostcodessimulation-20230402092704258/js/moment-2.24.0.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/getpostcodessimulation-20230402092704258/js/stats.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/getpostcodessimulation-20230402092704258/js/stats.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/getpostcodessimulation-20230402092704258/js/theme.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/getpostcodessimulation-20230402092704258/js/unpack.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/getpostcodessimulation-20230402092704258/req_get-postcode-484f2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/getpostcodessimulation-20230402092704258/simulation.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/getpostcodessimulation-20230402092704258/style/arrow_down.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/getpostcodessimulation-20230402092704258/style/arrow_down_black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/getpostcodessimulation-20230402092704258/style/arrow_right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/getpostcodessimulation-20230402092704258/style/arrow_right_black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/getpostcodessimulation-20230402092704258/style/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/getpostcodessimulation-20230402092704258/style/cible.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/getpostcodessimulation-20230402092704258/style/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/getpostcodessimulation-20230402092704258/style/little_arrow_right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/getpostcodessimulation-20230402092704258/style/logo-gatling.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/getpostcodessimulation-20230402092704258/style/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/getpostcodessimulation-20230402092704258/style/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/getpostcodessimulation-20230402092704258/style/sortable.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/getpostcodessimulation-20230402092704258/style/sorted-down.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/getpostcodessimulation-20230402092704258/style/sorted-up.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/getpostcodessimulation-20230402092704258/style/stat-fleche-bas.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/getpostcodessimulation-20230402092704258/style/stat-fond.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/getpostcodessimulation-20230402092704258/style/stat-l-roue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/getpostcodessimulation-20230402092704258/style/stat-l-temps.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/getpostcodessimulation-20230402092704258/style/style.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/gatling/lastRun.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/gatling/lastRun.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inc_compile.zip" beforeDir="false" afterPath="$PROJECT_DIR$/target/inc_compile.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/gatling.conf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/recordedsimulation/0007_request.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/requestBody/GetPostcode.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/inc_compile.zip" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/test/scala/config/Configuration$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/scala/config/Configuration$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/scala/config/Configuration.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/scala/config/Configuration.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/scala/scenarios/GetPostcodesScenario$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/scala/scenarios/GetPostcodesScenario.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/test/scala/simulation/getPostcodesSimulation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/scala/simulation/getPostcodesSimulation.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -85,12 +85,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/ajith/Documents/GitHub/Gatling-workspace/test&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/ajith/Documents/GitHub/Gatling-workspace/Gatlingtest_API/src/test/resources/requestBody"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ajith\Documents\GitHub\Gatling-workspace\Gatlingtest_API\src\test\resources\requestBody" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="simulation" />
+      <recent name="requests" />
+    </key>
+  </component>
   <component name="RunManager" selected="Application.Recorder">
     <configuration name="Engine" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Engine" />
