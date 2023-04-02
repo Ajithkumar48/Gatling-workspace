@@ -30,5 +30,5 @@ a. S/W and H/W Requirements
 b. Topics Covered
 	
 		1. API Load Testing
-		2. WEB UI Scripts
+		2. WEB UI Scripts 
 		
