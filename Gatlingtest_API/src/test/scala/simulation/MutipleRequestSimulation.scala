@@ -5,7 +5,7 @@ import test.scala.config.Configuration._
 import io.gatling.core.Predef._
 
 import scala.concurrent.duration._
-class getPostcodesSimulation extends Simulation {
+class MutipleRequestSimulation extends Simulation {
 
   private val getPostcodesRampExec = testScenario.getPostcodesScenario
     .inject(rampUsers(users) during (rampup seconds))

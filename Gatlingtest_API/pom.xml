@@ -43,7 +43,7 @@
         <configuration>
           <runMultipleSimulations>true</runMultipleSimulations>
           <includes>
-            <param>test.scala.simulation.getPostcodesSimulation</param>
+            <param>test.scala.simulation.MutipleRequestSimulation</param>
           </includes>
           <jvmArgs>
             <jvmArg>-Dusers=${users}</jvmArg>
