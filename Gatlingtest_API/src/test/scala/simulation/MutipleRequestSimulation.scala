@@ -1,7 +1,7 @@
 package test.scala.simulation
 
 import test.scala.scenarios.testScenario
-import test.scala.config.Configuration._
+import test.scala.Config.Configuration._
 import io.gatling.core.Predef._
 
 import scala.concurrent.duration._

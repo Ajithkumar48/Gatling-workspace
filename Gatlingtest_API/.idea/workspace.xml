@@ -6,14 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="1c13c920-62bb-4062-9e58-7364c325031c" name="Changes" comment="Gatling API test &gt;&gt; Multiple Request">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/scala/config/configuration.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/scala/config/configuration.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/scala/scenarios/testScenario.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/scala/scenarios/testScenario.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/scala/simulation/getPostcodesSimulation.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/scala/simulation/MutipleRequestSimulation.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/scala/config/Configuration$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/scala/config/Configuration$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/scala/config/Configuration.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/scala/config/Configuration.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/scala/scenarios/testScenario$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/scala/scenarios/testScenario$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/scala/simulation/getPostcodesSimulation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/scala/config/Configuration.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/scala/Config/Configuration.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/scala/requests/getGeocodingRequest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/scala/requests/getGeocodingRequest.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/scala/requests/getPostcodesRequest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/scala/requests/getPostcodesRequest.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/scala/simulation/MutipleRequestSimulation.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/scala/simulation/MutipleRequestSimulation.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,7 +120,21 @@
       <option name="project" value="LOCAL" />
       <updated>1680435393527</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Gatling API test &gt;&gt; Multiple Request">
+      <created>1680436718944</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1680436718944</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Gatling API test &gt;&gt; Multiple Request">
+      <created>1680436846636</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1680436846636</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
