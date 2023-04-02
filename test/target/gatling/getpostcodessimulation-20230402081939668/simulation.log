@@ -1,5 +1,0 @@
-ASSERTION	AAEDAAECAwAAAAAAAIizQA==
-RUN	test.scala.simulation.getPostcodesSimulation	getpostcodessimulation	1680423579668	 	3.6.1
-USER	Get Postcodes Scenario	START	1680423581051
-REQUEST		Get Postcode	1680423581073	1680423581620	OK	 
-USER	Get Postcodes Scenario	END	1680423581638
