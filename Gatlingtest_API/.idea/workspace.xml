@@ -6,10 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="1c13c920-62bb-4062-9e58-7364c325031c" name="Changes" comment="Gatling API test &gt;&gt; Multiple Request">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/scala/Config/Configuration.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/scala/config/Configuration.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/scala/requests/getGeocodingRequest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/scala/requests/getGeocodingRequest.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/scala/requests/getPostcodesRequest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/scala/requests/getPostcodesRequest.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/scala/simulation/MutipleRequestSimulation.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/scala/simulation/MutipleRequestSimulation.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/scala/config/Configuration$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/scala/config/Configuration$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/scala/config/Configuration.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/scala/config/Configuration.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../readme.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,7 +140,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680436938940</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Gatling API test &gt;&gt; Multiple Request">
+      <created>1680437027409</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1680437027409</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
