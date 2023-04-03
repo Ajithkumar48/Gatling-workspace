@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c13c920-62bb-4062-9e58-7364c325031c" name="Changes" comment="API test &gt;&gt; Concurrent Request" />
+    <list default="true" id="1c13c920-62bb-4062-9e58-7364c325031c" name="Changes" comment="Readme" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -156,7 +156,21 @@
       <option name="project" value="LOCAL" />
       <updated>1680439085807</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Readme">
+      <created>1680439155909</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1680439155909</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Readme">
+      <created>1680439182186</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1680439182186</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -174,6 +188,7 @@
     <MESSAGE value="first run &gt;&gt; target" />
     <MESSAGE value="Gatling API test &gt;&gt; Multiple Request" />
     <MESSAGE value="API test &gt;&gt; Concurrent Request" />
-    <option name="LAST_COMMIT_MESSAGE" value="API test &gt;&gt; Concurrent Request" />
+    <MESSAGE value="Readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="Readme" />
   </component>
 </project>
