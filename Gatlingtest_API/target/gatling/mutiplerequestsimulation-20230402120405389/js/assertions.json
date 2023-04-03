@@ -1,0 +1,18 @@
+{
+  "simulation": "test.scala.simulation.MutipleRequestSimulation",
+  "simulationId": "mutiplerequestsimulation",
+  "start": 1680437045389,
+  "description": "",
+  "scenarios": ["Get Postcodes Scenario", "Get Geocoding Scenario"],
+  "assertions": [
+{
+  "path": "Global",
+  "target": "max of response time",
+  "condition": "is less than",
+  "expectedValues": [5000.0],
+  "result": true,
+  "message": "Global: max of response time is less than 5000.0",
+  "actualValue": [1806.0]
+}
+  ]
+}
