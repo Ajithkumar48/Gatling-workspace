@@ -1,6 +1,6 @@
 Gatling plugin for Maven - Scala demo project
 =============================================
-
+// test
 A simple showcase of a Maven project using the Gatling plugin for Maven. Refer to the plugin documentation
 [on the Gatling website](https://gatling.io/docs/current/extensions/maven_plugin/) for usage.
 
